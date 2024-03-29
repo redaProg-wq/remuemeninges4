@@ -1,0 +1,16 @@
+{
+  "name": "lesiteduremuemeninges2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./assets/scripts/index.js",
+  "scripts": {
+    "start": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.2.4"
+  }
+}
